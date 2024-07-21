@@ -50,6 +50,9 @@ Foodie is the ultimate restaurant table reservation website for food enthusiasts
 
 6. Deploy the project on the Tomcat server.
 
+### Collaborator
+
+This Project was made in collaboration with Bratya Roy ```Bratya2021```
 
 ## Screenshots
 
